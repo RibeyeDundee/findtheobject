@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ribeyedundee.github.io/findtheobject/'
 languageCode = 'en-us'
 title = '🔎 Find the Object'
 theme = 'ananke'

@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://ribeyedundee.github.io/findtheobject/</loc>
     <lastmod>2125-12-30T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://ribeyedundee.github.io/findtheobject/posts/</loc>
     <lastmod>2125-12-30T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1/</loc>
+    <loc>https://ribeyedundee.github.io/findtheobject/posts/1/</loc>
     <lastmod>2025-12-31T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://ribeyedundee.github.io/findtheobject/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://ribeyedundee.github.io/findtheobject/tags/</loc>
   </url>
 </urlset>

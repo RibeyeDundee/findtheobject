@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 🔎 Find the Object</title>
-    <link>https://example.org/posts/</link>
+    <link>https://ribeyedundee.github.io/findtheobject/posts/</link>
     <description>Recent content in Posts on 🔎 Find the Object</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Dec 2025 00:00:00 -0500</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ribeyedundee.github.io/findtheobject/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>#1</title>
-      <link>https://example.org/posts/1/</link>
+      <link>https://ribeyedundee.github.io/findtheobject/posts/1/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 -0500</pubDate>
-      <guid>https://example.org/posts/1/</guid>
+      <guid>https://ribeyedundee.github.io/findtheobject/posts/1/</guid>
       <description>&lt;h2 id=&#34;-tree-rat-&#34;&gt;🔎 Tree rat! 🐿️&lt;/h2&gt;</description>
     </item>
   </channel>
