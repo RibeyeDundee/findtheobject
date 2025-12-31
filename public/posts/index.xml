@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 🔎 Find the Object</title>
+    <link>http://localhost:8000/posts/</link>
+    <description>Recent content in Posts on 🔎 Find the Object</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Dec 2125 00:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:8000/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#0</title>
+      <link>http://localhost:8000/posts/template/</link>
+      <pubDate>Sun, 30 Dec 2125 00:00:00 -0500</pubDate>
+      <guid>http://localhost:8000/posts/template/</guid>
+      <description>&lt;h2 id=&#34;-destroyer-of-trees-&#34;&gt;🔎 Destroyer of trees 🎄&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>#10</title>
+      <link>http://localhost:8000/posts/10/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 -0500</pubDate>
+      <guid>http://localhost:8000/posts/10/</guid>
+      <description>&lt;h2 id=&#34;-screw-this-too-&#34;&gt;🔎 Screw this too! 🔩&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>#9</title>
+      <link>http://localhost:8000/posts/9/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 -0500</pubDate>
+      <guid>http://localhost:8000/posts/9/</guid>
+      <description>&lt;h2 id=&#34;-relax-a-cat-&#34;&gt;🔎 Relax-a-cat 🐈&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>#8</title>
+      <link>http://localhost:8000/posts/8/</link>
+      <pubDate>Thu, 08 Jan 2026 00:00:00 -0500</pubDate>
+      <guid>http://localhost:8000/posts/8/</guid>
+      <description>&lt;h2 id=&#34;-tree-rat-&#34;&gt;🔎 Tree rat! 🐿️&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>#7</title>
+      <link>http://localhost:8000/posts/7/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 -0500</pubDate>
+      <guid>http://localhost:8000/posts/7/</guid>
+      <description>&lt;h2 id=&#34;-christmas-pen-&#34;&gt;🔎 Christmas Pen 🖋️&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>#6</title>
+      <link>http://localhost:8000/posts/6/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 -0500</pubDate>
+      <guid>http://localhost:8000/posts/6/</guid>
+      <description>&lt;h2 id=&#34;-snail-&#34;&gt;🔎 Snail? 🐌&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>#5</title>
+      <link>http://localhost:8000/posts/5/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 -0500</pubDate>
+      <guid>http://localhost:8000/posts/5/</guid>
+      <description>&lt;h2 id=&#34;-screw-this-&#34;&gt;🔎 Screw this! 🔩&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>#4</title>
+      <link>http://localhost:8000/posts/4/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 -0500</pubDate>
+      <guid>http://localhost:8000/posts/4/</guid>
+      <description>&lt;h2 id=&#34;-critter&#34;&gt;🔎 Critter&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>#3</title>
+      <link>http://localhost:8000/posts/3/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 -0500</pubDate>
+      <guid>http://localhost:8000/posts/3/</guid>
+      <description>&lt;h2 id=&#34;-extra-puzzle-piece-&#34;&gt;🔎 Extra puzzle piece 🧩&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>#2</title>
+      <link>http://localhost:8000/posts/2/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 -0500</pubDate>
+      <guid>http://localhost:8000/posts/2/</guid>
+      <description>&lt;h2 id=&#34;-destroyer-of-trees-&#34;&gt;🔎 Destroyer of trees 🎄&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>#1</title>
+      <link>http://localhost:8000/posts/1/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 -0500</pubDate>
+      <guid>http://localhost:8000/posts/1/</guid>
+      <description>&lt;h2 id=&#34;-sneaky-snake-&#34;&gt;🔎 Sneaky Snake 🐍&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>
