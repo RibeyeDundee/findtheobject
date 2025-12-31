@@ -5,6 +5,7 @@ theme = 'ananke'
 enableEmoji = true
 Paginate = 10
 publishDir = 'docs'
+buildFuture = false
 
 [markup]
   [markup.goldmark]
