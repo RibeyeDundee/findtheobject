@@ -3,15 +3,15 @@ title = '#8'
 date = 2026-01-08T00:00:00-05:00
 draft = false
 +++
-## 🔎 Tree rat! 🐿️
+## 🔎 Extra puzzle piece 🧩
 <!--more-->
-![Static Badge](https://img.shields.io/badge/Hard-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Easy-green?style=for-the-badge)
 ![Find](find.jpg)
 
 <b>
 
 <!-- description -->
-Good luck!
+There's an extra, duplicate puzzle piece in this picture.
 <!-- /description -->
 
 ---

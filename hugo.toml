@@ -4,6 +4,7 @@ title = '🔎 Find the Object'
 theme = 'ananke'
 enableEmoji = true
 Paginate = 10
+publishDir = 'docs'
 
 [markup]
   [markup.goldmark]
