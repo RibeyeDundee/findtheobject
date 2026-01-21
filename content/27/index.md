@@ -1,0 +1,23 @@
++++
+title = '🔎 #27 - Jungle Cat 🐱'
+date = 2026-01-26
+draft = false
+tags = [
+'hard',
+]
++++
+Ok, maybe it's more of a garden than a jungle...
+<!--more-->
+![Static Badge](https://img.shields.io/badge/hard-red?style=for-the-badge)
+![Find](../images/27-find.jpg)
+### ❓Hints
+{{% details title="👀" closed="true" %}}
+- it's gray
+- it's facing away from you
+- you can only see the top half of it
+- it's bigger than you think
+{{% /details %}}
+### 🎯 Location
+{{% details title="👀" closed="true" %}}
+🗓️ The location for this object will be posted tomorrow -- See you then!
+{{% /details %}}
