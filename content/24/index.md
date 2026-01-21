@@ -17,7 +17,5 @@ tags = [
 {{% /details %}}
 ### 🎯 Location
 {{% details title="👀" closed="true" %}}
-{{% details title="⚠️ Spoilers ahead! Tap/click to continue to the object location ⚠️" closed="true" %}}
-![Found](../images/24-found.jpg)
-{{% /details %}}
+🗓️ The location for this object will be posted tomorrow -- See you then!
 {{% /details %}}

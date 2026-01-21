@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Find the Object – 🔎 Posts</title>
-    <link>http://localhost:8000/findtheobject/</link>
+    <link>https://ribeyedundee.github.io/findtheobject/</link>
     <description>Recent content in 🔎 Posts on Find the Object</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:8000/findtheobject/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://ribeyedundee.github.io/findtheobject/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>🔎 #22 - Sneaky Shears ✂</title>
-      <link>http://localhost:8000/findtheobject/22/</link>
+      <link>https://ribeyedundee.github.io/findtheobject/22/</link>
       <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/findtheobject/22/</guid>
+      <guid>https://ribeyedundee.github.io/findtheobject/22/</guid>
       <description>
         
         
@@ -32,14 +32,7 @@ Someone lost their gardening shears in these leaves&lt;/p&gt;
     &lt;strong class=&#34;hx:text-lg&#34;&gt;👀&lt;/strong&gt;
   &lt;/summary&gt;
   &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
-    &lt;details class=&#34;hx:last-of-type:mb-0 hx:rounded-lg hx:bg-neutral-50 hx:dark:bg-neutral-800 hx:p-2 hx:mt-4 hx:group&#34; &gt;
-  &lt;summary class=&#34;hx:flex hx:items-center hx:cursor-pointer hx:select-none hx:list-none hx:p-1 hx:rounded-sm hx:transition-colors hx:hover:bg-gray-100 hx:dark:hover:bg-neutral-800 hx:before:mr-1 hx:before:inline-block hx:before:transition-transform hx:before:content-[&#39;&#39;] hx:dark:before:invert hx:rtl:before:rotate-180 hx:group-open:before:rotate-90&#34;&gt;
-    &lt;strong class=&#34;hx:text-lg&#34;&gt;⚠️ Spoilers ahead! Tap/click to continue to the object location ⚠️&lt;/strong&gt;
-  &lt;/summary&gt;
-  &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
-    &lt;img src=&#34;../images/22-found.jpg&#34; alt=&#34;Found&#34;  loading=&#34;lazy&#34; /&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
+    🗓️ The location for this object will be posted tomorrow &amp;ndash; See you then!
   &lt;/div&gt;
 &lt;/details&gt;
       </description>
@@ -47,10 +40,10 @@ Someone lost their gardening shears in these leaves&lt;/p&gt;
     
     <item>
       <title>🔎 #21 -  Find the dog! 🐶</title>
-      <link>http://localhost:8000/findtheobject/21/</link>
+      <link>https://ribeyedundee.github.io/findtheobject/21/</link>
       <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/findtheobject/21/</guid>
+      <guid>https://ribeyedundee.github.io/findtheobject/21/</guid>
       <description>
         
         
@@ -73,14 +66,7 @@ Someone lost their gardening shears in these leaves&lt;/p&gt;
     &lt;strong class=&#34;hx:text-lg&#34;&gt;👀&lt;/strong&gt;
   &lt;/summary&gt;
   &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
-    &lt;details class=&#34;hx:last-of-type:mb-0 hx:rounded-lg hx:bg-neutral-50 hx:dark:bg-neutral-800 hx:p-2 hx:mt-4 hx:group&#34; &gt;
-  &lt;summary class=&#34;hx:flex hx:items-center hx:cursor-pointer hx:select-none hx:list-none hx:p-1 hx:rounded-sm hx:transition-colors hx:hover:bg-gray-100 hx:dark:hover:bg-neutral-800 hx:before:mr-1 hx:before:inline-block hx:before:transition-transform hx:before:content-[&#39;&#39;] hx:dark:before:invert hx:rtl:before:rotate-180 hx:group-open:before:rotate-90&#34;&gt;
-    &lt;strong class=&#34;hx:text-lg&#34;&gt;⚠️ Spoilers ahead! Tap/click to continue to the object location ⚠️&lt;/strong&gt;
-  &lt;/summary&gt;
-  &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
-    &lt;img src=&#34;../images/21-found.jpg&#34; alt=&#34;Found&#34;  loading=&#34;lazy&#34; /&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
+    🗓️ The location for this object will be posted tomorrow &amp;ndash; See you then!
   &lt;/div&gt;
 &lt;/details&gt;
       </description>
@@ -88,10 +74,10 @@ Someone lost their gardening shears in these leaves&lt;/p&gt;
     
     <item>
       <title>🔎 #20 - Find the silver star! ⭐</title>
-      <link>http://localhost:8000/findtheobject/20/</link>
+      <link>https://ribeyedundee.github.io/findtheobject/20/</link>
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/findtheobject/20/</guid>
+      <guid>https://ribeyedundee.github.io/findtheobject/20/</guid>
       <description>
         
         
@@ -118,10 +104,10 @@ Someone lost their gardening shears in these leaves&lt;/p&gt;
     
     <item>
       <title>🔎 #19 - Bobtail lizard 🦎</title>
-      <link>http://localhost:8000/findtheobject/19/</link>
+      <link>https://ribeyedundee.github.io/findtheobject/19/</link>
       <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/findtheobject/19/</guid>
+      <guid>https://ribeyedundee.github.io/findtheobject/19/</guid>
       <description>
         
         
@@ -163,10 +149,10 @@ Someone lost their gardening shears in these leaves&lt;/p&gt;
     
     <item>
       <title>🔎 #18 - Can you find 8 legs in less than 8 minutes? 🕷️</title>
-      <link>http://localhost:8000/findtheobject/18/</link>
+      <link>https://ribeyedundee.github.io/findtheobject/18/</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/findtheobject/18/</guid>
+      <guid>https://ribeyedundee.github.io/findtheobject/18/</guid>
       <description>
         
         
@@ -205,10 +191,10 @@ There’s a spider watching you looking for it…&lt;/p&gt;
     
     <item>
       <title>🔎 #17 - Phone (lost in) home 📱</title>
-      <link>http://localhost:8000/findtheobject/17/</link>
+      <link>https://ribeyedundee.github.io/findtheobject/17/</link>
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/findtheobject/17/</guid>
+      <guid>https://ribeyedundee.github.io/findtheobject/17/</guid>
       <description>
         
         
@@ -246,10 +232,10 @@ There’s a spider watching you looking for it…&lt;/p&gt;
     
     <item>
       <title>🔎 #16 - Japanese Wagtail 🐦‍⬛</title>
-      <link>http://localhost:8000/findtheobject/16/</link>
+      <link>https://ribeyedundee.github.io/findtheobject/16/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/findtheobject/16/</guid>
+      <guid>https://ribeyedundee.github.io/findtheobject/16/</guid>
       <description>
         
         
@@ -291,10 +277,10 @@ There’s a spider watching you looking for it…&lt;/p&gt;
     
     <item>
       <title>🔎 #15 - Impossible Bobcat 😼</title>
-      <link>http://localhost:8000/findtheobject/15/</link>
+      <link>https://ribeyedundee.github.io/findtheobject/15/</link>
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/findtheobject/15/</guid>
+      <guid>https://ribeyedundee.github.io/findtheobject/15/</guid>
       <description>
         
         
@@ -335,10 +321,10 @@ There’s a bobcat in this picture. Just its face, looking right at the camera. 
     
     <item>
       <title>🔎 #14 - Give up and call the locksmith 🗝️</title>
-      <link>http://localhost:8000/findtheobject/14/</link>
+      <link>https://ribeyedundee.github.io/findtheobject/14/</link>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/findtheobject/14/</guid>
+      <guid>https://ribeyedundee.github.io/findtheobject/14/</guid>
       <description>
         
         
@@ -378,10 +364,10 @@ There is a small key in here somewhere, I promise.&lt;/p&gt;
     
     <item>
       <title>🔎 #13 - Nope Rope 🐍</title>
-      <link>http://localhost:8000/findtheobject/13/</link>
+      <link>https://ribeyedundee.github.io/findtheobject/13/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/findtheobject/13/</guid>
+      <guid>https://ribeyedundee.github.io/findtheobject/13/</guid>
       <description>
         
         
@@ -420,10 +406,10 @@ There is a small key in here somewhere, I promise.&lt;/p&gt;
     
     <item>
       <title>🔎 #12 - Hidden Feathered Friend 🪶</title>
-      <link>http://localhost:8000/findtheobject/12/</link>
+      <link>https://ribeyedundee.github.io/findtheobject/12/</link>
       <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/findtheobject/12/</guid>
+      <guid>https://ribeyedundee.github.io/findtheobject/12/</guid>
       <description>
         
         
@@ -461,10 +447,10 @@ There is a small key in here somewhere, I promise.&lt;/p&gt;
     
     <item>
       <title>🔎 #11 - Screw this too! 🔩</title>
-      <link>http://localhost:8000/findtheobject/11/</link>
+      <link>https://ribeyedundee.github.io/findtheobject/11/</link>
       <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/findtheobject/11/</guid>
+      <guid>https://ribeyedundee.github.io/findtheobject/11/</guid>
       <description>
         
         
@@ -502,10 +488,10 @@ There is a small key in here somewhere, I promise.&lt;/p&gt;
     
     <item>
       <title>🔎 #10 - Relax-a-cat 🐈</title>
-      <link>http://localhost:8000/findtheobject/10/</link>
+      <link>https://ribeyedundee.github.io/findtheobject/10/</link>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/findtheobject/10/</guid>
+      <guid>https://ribeyedundee.github.io/findtheobject/10/</guid>
       <description>
         
         
@@ -532,10 +518,10 @@ There is a small key in here somewhere, I promise.&lt;/p&gt;
     
     <item>
       <title>🔎 #9 - Extra puzzle piece 🧩</title>
-      <link>http://localhost:8000/findtheobject/9/</link>
+      <link>https://ribeyedundee.github.io/findtheobject/9/</link>
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/findtheobject/9/</guid>
+      <guid>https://ribeyedundee.github.io/findtheobject/9/</guid>
       <description>
         
         
@@ -563,10 +549,10 @@ There’s an extra, duplicate puzzle piece in this picture.&lt;/p&gt;
     
     <item>
       <title>🔎 #8 - Christmas Pen 🖋️</title>
-      <link>http://localhost:8000/findtheobject/8/</link>
+      <link>https://ribeyedundee.github.io/findtheobject/8/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/findtheobject/8/</guid>
+      <guid>https://ribeyedundee.github.io/findtheobject/8/</guid>
       <description>
         
         
@@ -594,10 +580,10 @@ There’s an ink pen in this picture!&lt;/p&gt;
     
     <item>
       <title>🔎 #6 - Snail 🐌</title>
-      <link>http://localhost:8000/findtheobject/6/</link>
+      <link>https://ribeyedundee.github.io/findtheobject/6/</link>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/findtheobject/6/</guid>
+      <guid>https://ribeyedundee.github.io/findtheobject/6/</guid>
       <description>
         
         
@@ -636,10 +622,10 @@ It&amp;rsquo;s hard to tell it&amp;rsquo;s a snail, but it&amp;rsquo;s there.&lt
     
     <item>
       <title>🔎 #7 - ✨Bonus Squirrel! 🐿️</title>
-      <link>http://localhost:8000/findtheobject/7/</link>
+      <link>https://ribeyedundee.github.io/findtheobject/7/</link>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/findtheobject/7/</guid>
+      <guid>https://ribeyedundee.github.io/findtheobject/7/</guid>
       <description>
         
         
@@ -666,10 +652,10 @@ It&amp;rsquo;s hard to tell it&amp;rsquo;s a snail, but it&amp;rsquo;s there.&lt
     
     <item>
       <title>🔎 #5 - Screw this! 🔩</title>
-      <link>http://localhost:8000/findtheobject/5/</link>
+      <link>https://ribeyedundee.github.io/findtheobject/5/</link>
       <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/findtheobject/5/</guid>
+      <guid>https://ribeyedundee.github.io/findtheobject/5/</guid>
       <description>
         
         
@@ -707,10 +693,10 @@ It&amp;rsquo;s hard to tell it&amp;rsquo;s a snail, but it&amp;rsquo;s there.&lt
     
     <item>
       <title>🔎 #4 - Critter</title>
-      <link>http://localhost:8000/findtheobject/4/</link>
+      <link>https://ribeyedundee.github.io/findtheobject/4/</link>
       <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/findtheobject/4/</guid>
+      <guid>https://ribeyedundee.github.io/findtheobject/4/</guid>
       <description>
         
         
@@ -748,10 +734,10 @@ It&amp;rsquo;s hard to tell it&amp;rsquo;s a snail, but it&amp;rsquo;s there.&lt
     
     <item>
       <title>🔎 #3 - Sneaky Snake 🐍</title>
-      <link>http://localhost:8000/findtheobject/3/</link>
+      <link>https://ribeyedundee.github.io/findtheobject/3/</link>
       <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/findtheobject/3/</guid>
+      <guid>https://ribeyedundee.github.io/findtheobject/3/</guid>
       <description>
         
         
@@ -789,10 +775,10 @@ It&amp;rsquo;s hard to tell it&amp;rsquo;s a snail, but it&amp;rsquo;s there.&lt
     
     <item>
       <title>🔎 #2 - Destroyer of trees 🎄</title>
-      <link>http://localhost:8000/findtheobject/2/</link>
+      <link>https://ribeyedundee.github.io/findtheobject/2/</link>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/findtheobject/2/</guid>
+      <guid>https://ribeyedundee.github.io/findtheobject/2/</guid>
       <description>
         
         
@@ -830,10 +816,10 @@ It&amp;rsquo;s hard to tell it&amp;rsquo;s a snail, but it&amp;rsquo;s there.&lt
     
     <item>
       <title>🔎 #1 - Tree rat! 🐿️</title>
-      <link>http://localhost:8000/findtheobject/1/</link>
+      <link>https://ribeyedundee.github.io/findtheobject/1/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/findtheobject/1/</guid>
+      <guid>https://ribeyedundee.github.io/findtheobject/1/</guid>
       <description>
         
         
