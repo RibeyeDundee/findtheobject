@@ -1,0 +1,15 @@
+[project]
+name = "site"
+version = "0.1.0"
+description = "Scripts to support the management of sqlite3-backed Hugo blog"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "typer"
+]
+
+[posts]
+db_path = "../findtheobject.db"
+publish_dir = 'docs'
+purge_publish_dir = true    # enable this to purge the publish directory before rebuilding posts. be careful!
+valid_difficulties = ['easy', 'medium', 'hard', 'impossible']
