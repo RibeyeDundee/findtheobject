@@ -2,20 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:8000/findtheobject/24/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:8000/findtheobject/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:8000/findtheobject/tags/hard/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:8000/findtheobject/tags/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:8000/findtheobject/23/</loc>
-    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:8000/findtheobject/22/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
@@ -23,7 +11,13 @@
     <loc>http://localhost:8000/findtheobject/tags/medium/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:8000/findtheobject/tags/</loc>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:8000/findtheobject/21/</loc>
+    <lastmod>2026-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:8000/findtheobject/tags/hard/</loc>
     <lastmod>2026-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:8000/findtheobject/20/</loc>
@@ -91,8 +85,6 @@
   </url><url>
     <loc>http://localhost:8000/findtheobject/1/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:8000/findtheobject/test/</loc>
   </url><url>
     <loc>http://localhost:8000/findtheobject/categories/</loc>
   </url>
