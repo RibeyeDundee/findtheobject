@@ -125,7 +125,6 @@ def should_print_hints(publish_date):
         return False
 
 def should_print_location(publish_date):
-    return True
     # we want to wait until the day after the publish date to print the location section
     timezone = ZoneInfo('America/New_York')
     publish_date = date.fromisoformat(publish_date)
