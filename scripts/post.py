@@ -1,4 +1,4 @@
-from datetime import date
+from datetime import date, datetime, timedelta
 import sqlite3
 import tomllib
 import json
@@ -33,6 +33,12 @@ def validate_date(_date):
     return True
 
 
+def sanitize(string):
+    string = string.replace("'","")
+
+    return string
+
+
 def validate_difficulty_callback(diff):
     # this separate validate wrapper is necessary because a typer.Option(callback=func) passes in different
     # args depending on how many args your callback function has registered.
@@ -50,6 +56,31 @@ def validate_difficulty(diff):
     return True
 
 
+def get_publish_date(date_type='latest'):
+    try:
+        db = db_connect()
+        db_conn = db[0]
+        db_cur = db[1]
+    
+        query = 'select publish_date from posts order by publish_date desc limit 1'
+        results = db_cur.execute(query)
+        row = results.fetchall()[0]
+        date_str = row[0]
+    except Exception as e:
+        typer.echo("ERROR: Failed to retrieve last publish data from DB. [{e}]")
+        exit(70)
+
+    if date_type == 'latest':
+        return date_str
+    elif date_type == 'next':
+        latest_date = datetime.strptime(date_str, "%Y-%m-%d").date()
+        next_date = latest_date + timedelta(days=1)
+        next_date = next_date.strftime("%Y-%m-%d")
+        return next_date
+    else:
+        return False
+
+
 def db_connect():
     config = parse_toml()
     conn = sqlite3.connect(config['db_path'])
@@ -65,7 +96,7 @@ def insert_post(post):
     # set the difficulty as the first tag
     tags = f'{post['difficulty']} {" ".join(post['tags'])}'
     post_query = 'insert into posts (title,tags,publish_date,difficulty,subtitle) values (?,?,?,?,?)'
-    db_cur.execute(post_query, (post['title'], tags, post['publish_date'], post['difficulty'], post['subtitle']))
+    db_cur.execute(post_query, (sanitize(post['title']), tags, post['publish_date'], post['difficulty'], post['subtitle']))
 
     post_id = db_cur.lastrowid
     
@@ -110,7 +141,6 @@ def create(
 
 @app.command()
 def create_interactive():
-
     # Prompt for values
   
     title = typer.prompt("Post title (required)")
@@ -118,7 +148,7 @@ def create_interactive():
     subtitle = typer.prompt("Post subtitle", default='', show_default=False)
     
     while True:
-            publish_date = typer.prompt("Publish date (required) (YYYY-MM-DD)")
+            publish_date = typer.prompt("Publish date (required) (YYYY-MM-DD)", default=get_publish_date('next'))
             if validate_date(publish_date):
                 break
             typer.echo(f"❌ Invalid date format. Please use YYYY-MM-DD.")
