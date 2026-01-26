@@ -94,7 +94,7 @@ def insert_post(post):
     db_cur = db[1]
 
     # set the difficulty as the first tag
-    tags = f'{post['difficulty']} {" ".join(post['tags'])}'
+    tags = f'{post['difficulty'].upper()} {" ".join(post['tags'])}'
     post_query = 'insert into posts (title,tags,publish_date,difficulty,subtitle) values (?,?,?,?,?)'
     db_cur.execute(post_query, (sanitize(post['title']), tags, post['publish_date'], post['difficulty'], post['subtitle']))
 
