@@ -14,5 +14,7 @@ Can cats get tetanus?
 > Tetanus is caused by a bacterium commonly found in soil. One of the symptoms of tetanus is intense muscle spasms, some of which can be strong enough to fracture bones.
 ### 🎯 Location
 {{% details title="👀" closed="true" %}}
-🗓️ The location for this object will be posted tomorrow -- See you then!
+{{% details title="⚠️ Spoilers ahead! Tap/click to continue to the object location ⚠️" closed="true" %}}
+![Found](../images/40-found.jpg)
+{{% /details %}}
 {{% /details %}}
