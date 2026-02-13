@@ -14,5 +14,7 @@ Say "skink" 10 times in a row and tell me it doesn't sound like a fake word...
 > Skink is one of the most diverse families of lizards. Most skinks have detachable tails that can be shed, then regrown, if grabbed by a predator.
 ### 🎯 Location
 {{% details title="👀" closed="true" %}}
-🗓️ The location for this object will be posted tomorrow -- See you then!
+{{% details title="⚠️ Spoilers ahead! Tap/click to continue to the object location ⚠️" closed="true" %}}
+![Found](../images/46-found.jpg)
+{{% /details %}}
 {{% /details %}}
