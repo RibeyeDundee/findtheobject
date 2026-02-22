@@ -18,5 +18,7 @@ It's a wood screw like this ![screw](../images/screw-55.jpg)
 {{% /details %}}
 ### 🎯 Location
 {{% details title="👀" closed="true" %}}
-🗓️ The location for this object will be posted tomorrow -- See you then!
+{{% details title="⚠️ Spoilers ahead! Tap/click to continue to the object location ⚠️" closed="true" %}}
+![Found](../images/55-found.jpg)
+{{% /details %}}
 {{% /details %}}
