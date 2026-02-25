@@ -5,7 +5,12 @@ description = "Scripts to support the management of sqlite3-backed Hugo blog"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
-    "typer"
+	 "typer"
+]
+
+[project.optional-dependencies]
+reddit = [
+	"praw"
 ]
 
 [posts]
