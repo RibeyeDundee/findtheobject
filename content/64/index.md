@@ -13,5 +13,7 @@ Anyone with pierced ears has been there...
 The earring back is one of the clear rubber ones like this: ![back](../images/64-back.jpg)
 ### 🎯 Location
 {{% details title="👀" closed="true" %}}
-🗓️ The location for this object will be posted tomorrow -- See you then!
+{{% details title="⚠️ Spoilers ahead! Tap/click to continue to the object location ⚠️" closed="true" %}}
+![Found](../images/64-found.jpg)
+{{% /details %}}
 {{% /details %}}
