@@ -1,0 +1,23 @@
++++
+title = '🔎 #71 - This deer sees you...🦌'
+date = 2026-03-09
+draft = false
+tags = [
+'HARD',
+]
++++
+...do you see it?
+<!--more-->
+![Static Badge](https://img.shields.io/badge/hard-red?style=for-the-badge)
+![Find](../images/71-find.jpg)
+### ❓Hints
+{{% details title="👀" closed="true" %}}
+- it's looking right at you
+- you can only see its head
+- it's face is behind some vegetation
+- you'll know it when you see it
+{{% /details %}}
+### 🎯 Location
+{{% details title="👀" closed="true" %}}
+🗓️ The location for this object will be posted tomorrow -- See you then!
+{{% /details %}}
