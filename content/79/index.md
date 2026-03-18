@@ -12,5 +12,7 @@ tags = [
 It's a valve stem cap! You know, the thing you unscrew before adding air to your car tire
 ### 🎯 Location
 {{% details title="👀" closed="true" %}}
-🗓️ The location for this object will be posted tomorrow -- See you then!
+{{% details title="⚠️ Spoilers ahead! Tap/click to continue to the object location ⚠️" closed="true" %}}
+![Found](../images/79-found.jpg)
+{{% /details %}}
 {{% /details %}}
