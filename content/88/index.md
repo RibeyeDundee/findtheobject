@@ -13,5 +13,7 @@ That's an owl joke...
 It's an owl! You'll find it!
 ### 🎯 Location
 {{% details title="👀" closed="true" %}}
-🗓️ The location for this object will be posted tomorrow -- See you then!
+{{% details title="⚠️ Spoilers ahead! Tap/click to continue to the object location ⚠️" closed="true" %}}
+![Found](../images/88-found.jpg)
+{{% /details %}}
 {{% /details %}}
