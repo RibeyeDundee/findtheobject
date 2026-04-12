@@ -141,6 +141,9 @@ def create(
 
 @app.command()
 def create_interactive():
+    # load configs
+    config = parse_toml()
+
     # Prompt for values
   
     title = typer.prompt("Post title (required)")
@@ -157,7 +160,7 @@ def create_interactive():
             difficulty = typer.prompt("Difficulty (required)").lower()
             if validate_difficulty(difficulty):
                 break
-            typer.echo(f"❌ Invalid difficulty. Please choose from {valid_difficulties}.")
+            typer.echo(f"❌ Invalid difficulty. Please choose from {config['valid_difficulties']}.")
 
     body_header = typer.prompt("Body header", default='', show_default=False)
 
