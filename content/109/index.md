@@ -13,5 +13,7 @@ So many cat puzzles!
 Can you find the cat that's found you?
 ### 🎯 Location
 {{% details title="👀" closed="true" %}}
-🗓️ The location for this object will be posted tomorrow -- See you then!
+{{% details title="⚠️ Spoilers ahead! Tap/click to continue to the object location ⚠️" closed="true" %}}
+![Found](../images/109-found.jpg)
+{{% /details %}}
 {{% /details %}}
