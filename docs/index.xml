@@ -15,6 +15,42 @@
     
     
     <item>
+      <title>🔎 #131 - Toad, the return 🐸</title>
+      <link>https://ribeyedundee.github.io/findtheobject/131/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://ribeyedundee.github.io/findtheobject/131/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;https://img.shields.io/badge/medium-yellow?style=for-the-badge&#34; alt=&#34;Static Badge&#34;  loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;../images/131-find.jpg&#34; alt=&#34;Find&#34;  loading=&#34;lazy&#34; /&gt;
+More toad action!&lt;/p&gt;
+&lt;h3&gt;❓Hints&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;hints&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#hints&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;details class=&#34;hx:last-of-type:mb-0 hx:rounded-lg hx:bg-neutral-50 hx:dark:bg-neutral-800 hx:p-2 hx:mt-4 hx:group&#34; &gt;
+  &lt;summary class=&#34;hx:flex hx:items-center hx:cursor-pointer hx:select-none hx:list-none hx:p-1 hx:rounded-sm hx:transition-colors hx:hover:bg-gray-100 hx:dark:hover:bg-neutral-800 hx:before:mr-1 hx:before:inline-block hx:before:transition-transform hx:before:content-[&#39;&#39;] hx:dark:before:invert hx:rtl:before:rotate-180 hx:group-open:before:rotate-90&#34;&gt;
+    &lt;strong class=&#34;hx:text-lg&#34;&gt;👀&lt;/strong&gt;
+  &lt;/summary&gt;
+  &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;it&amp;rsquo;s very muddy&lt;/li&gt;
+&lt;li&gt;it&amp;rsquo;s not super clear, but when you see it, you&amp;rsquo;ll know&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+&lt;h3&gt;🎯 Location&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-location&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-location&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;details class=&#34;hx:last-of-type:mb-0 hx:rounded-lg hx:bg-neutral-50 hx:dark:bg-neutral-800 hx:p-2 hx:mt-4 hx:group&#34; &gt;
+  &lt;summary class=&#34;hx:flex hx:items-center hx:cursor-pointer hx:select-none hx:list-none hx:p-1 hx:rounded-sm hx:transition-colors hx:hover:bg-gray-100 hx:dark:hover:bg-neutral-800 hx:before:mr-1 hx:before:inline-block hx:before:transition-transform hx:before:content-[&#39;&#39;] hx:dark:before:invert hx:rtl:before:rotate-180 hx:group-open:before:rotate-90&#34;&gt;
+    &lt;strong class=&#34;hx:text-lg&#34;&gt;👀&lt;/strong&gt;
+  &lt;/summary&gt;
+  &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
+    🗓️ The location for this object will be posted tomorrow &amp;ndash; See you then!
+  &lt;/div&gt;
+&lt;/details&gt;
+      </description>
+    </item>
+    
+    <item>
       <title>🔎 #130 - Toadally hard to find 🐸</title>
       <link>https://ribeyedundee.github.io/findtheobject/130/</link>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
@@ -32,7 +68,14 @@ Good luck finding the toad hiding here!&lt;/p&gt;
     &lt;strong class=&#34;hx:text-lg&#34;&gt;👀&lt;/strong&gt;
   &lt;/summary&gt;
   &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
-    🗓️ The location for this object will be posted tomorrow &amp;ndash; See you then!
+    &lt;details class=&#34;hx:last-of-type:mb-0 hx:rounded-lg hx:bg-neutral-50 hx:dark:bg-neutral-800 hx:p-2 hx:mt-4 hx:group&#34; &gt;
+  &lt;summary class=&#34;hx:flex hx:items-center hx:cursor-pointer hx:select-none hx:list-none hx:p-1 hx:rounded-sm hx:transition-colors hx:hover:bg-gray-100 hx:dark:hover:bg-neutral-800 hx:before:mr-1 hx:before:inline-block hx:before:transition-transform hx:before:content-[&#39;&#39;] hx:dark:before:invert hx:rtl:before:rotate-180 hx:group-open:before:rotate-90&#34;&gt;
+    &lt;strong class=&#34;hx:text-lg&#34;&gt;⚠️ Spoilers ahead! Tap/click to continue to the object location ⚠️&lt;/strong&gt;
+  &lt;/summary&gt;
+  &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
+    &lt;img src=&#34;../images/130-found.jpg&#34; alt=&#34;Found&#34;  loading=&#34;lazy&#34; /&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
   &lt;/div&gt;
 &lt;/details&gt;
       </description>
@@ -1871,49 +1914,6 @@ There&amp;rsquo;s a small gold earring in this photo&lt;/p&gt;
   &lt;/summary&gt;
   &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
     &lt;img src=&#34;../images/82-found.jpg&#34; alt=&#34;Found&#34;  loading=&#34;lazy&#34; /&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-      </description>
-    </item>
-    
-    <item>
-      <title>🔎 #81 - Nailed it! Nailed it again! 🔨</title>
-      <link>https://ribeyedundee.github.io/findtheobject/81/</link>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://ribeyedundee.github.io/findtheobject/81/</guid>
-      <description>
-        
-        
-        &lt;p&gt;When you drop some nails, you can&amp;rsquo;t stop until you&amp;rsquo;ve found them all&amp;hellip;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://img.shields.io/badge/medium-yellow?style=for-the-badge&#34; alt=&#34;Static Badge&#34;  loading=&#34;lazy&#34; /&gt;
-&lt;img src=&#34;../images/81-find.jpg&#34; alt=&#34;Find&#34;  loading=&#34;lazy&#34; /&gt;
-There are two nailed in this yard&lt;/p&gt;
-&lt;h3&gt;❓Hints&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;hints&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#hints&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;details class=&#34;hx:last-of-type:mb-0 hx:rounded-lg hx:bg-neutral-50 hx:dark:bg-neutral-800 hx:p-2 hx:mt-4 hx:group&#34; &gt;
-  &lt;summary class=&#34;hx:flex hx:items-center hx:cursor-pointer hx:select-none hx:list-none hx:p-1 hx:rounded-sm hx:transition-colors hx:hover:bg-gray-100 hx:dark:hover:bg-neutral-800 hx:before:mr-1 hx:before:inline-block hx:before:transition-transform hx:before:content-[&#39;&#39;] hx:dark:before:invert hx:rtl:before:rotate-180 hx:group-open:before:rotate-90&#34;&gt;
-    &lt;strong class=&#34;hx:text-lg&#34;&gt;👀&lt;/strong&gt;
-  &lt;/summary&gt;
-  &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
-    &lt;ul&gt;
-&lt;li&gt;they are framing nails. larger than one&amp;rsquo;s you&amp;rsquo;d use to hang a picture&lt;/li&gt;
-&lt;/ul&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-&lt;h3&gt;🎯 Location&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-location&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#-location&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;details class=&#34;hx:last-of-type:mb-0 hx:rounded-lg hx:bg-neutral-50 hx:dark:bg-neutral-800 hx:p-2 hx:mt-4 hx:group&#34; &gt;
-  &lt;summary class=&#34;hx:flex hx:items-center hx:cursor-pointer hx:select-none hx:list-none hx:p-1 hx:rounded-sm hx:transition-colors hx:hover:bg-gray-100 hx:dark:hover:bg-neutral-800 hx:before:mr-1 hx:before:inline-block hx:before:transition-transform hx:before:content-[&#39;&#39;] hx:dark:before:invert hx:rtl:before:rotate-180 hx:group-open:before:rotate-90&#34;&gt;
-    &lt;strong class=&#34;hx:text-lg&#34;&gt;👀&lt;/strong&gt;
-  &lt;/summary&gt;
-  &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
-    &lt;details class=&#34;hx:last-of-type:mb-0 hx:rounded-lg hx:bg-neutral-50 hx:dark:bg-neutral-800 hx:p-2 hx:mt-4 hx:group&#34; &gt;
-  &lt;summary class=&#34;hx:flex hx:items-center hx:cursor-pointer hx:select-none hx:list-none hx:p-1 hx:rounded-sm hx:transition-colors hx:hover:bg-gray-100 hx:dark:hover:bg-neutral-800 hx:before:mr-1 hx:before:inline-block hx:before:transition-transform hx:before:content-[&#39;&#39;] hx:dark:before:invert hx:rtl:before:rotate-180 hx:group-open:before:rotate-90&#34;&gt;
-    &lt;strong class=&#34;hx:text-lg&#34;&gt;⚠️ Spoilers ahead! Tap/click to continue to the object location ⚠️&lt;/strong&gt;
-  &lt;/summary&gt;
-  &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
-    &lt;img src=&#34;../images/81-found.jpg&#34; alt=&#34;Found&#34;  loading=&#34;lazy&#34; /&gt;
   &lt;/div&gt;
 &lt;/details&gt;
   &lt;/div&gt;
