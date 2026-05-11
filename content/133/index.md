@@ -16,5 +16,7 @@ Can you find the crow in this photo?
 {{% /details %}}
 ### 🎯 Location
 {{% details title="👀" closed="true" %}}
-🗓️ The location for this object will be posted tomorrow -- See you then!
+{{% details title="⚠️ Spoilers ahead! Tap/click to continue to the object location ⚠️" closed="true" %}}
+![Found](../images/133-found.jpg)
+{{% /details %}}
 {{% /details %}}
