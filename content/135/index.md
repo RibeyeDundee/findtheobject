@@ -17,5 +17,7 @@ The dog is watching you...
 {{% /details %}}
 ### 🎯 Location
 {{% details title="👀" closed="true" %}}
-🗓️ The location for this object will be posted tomorrow -- See you then!
+{{% details title="⚠️ Spoilers ahead! Tap/click to continue to the object location ⚠️" closed="true" %}}
+![Found](../images/135-found.jpg)
+{{% /details %}}
 {{% /details %}}
