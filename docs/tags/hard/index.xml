@@ -33,7 +33,14 @@ There&amp;rsquo;s a cat in these woods. Really!&lt;/p&gt;
     &lt;strong class=&#34;hx:text-lg&#34;&gt;👀&lt;/strong&gt;
   &lt;/summary&gt;
   &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
-    🗓️ The location for this object will be posted tomorrow &amp;ndash; See you then!
+    &lt;details class=&#34;hx:last-of-type:mb-0 hx:rounded-lg hx:bg-neutral-50 hx:dark:bg-neutral-800 hx:p-2 hx:mt-4 hx:group&#34; &gt;
+  &lt;summary class=&#34;hx:flex hx:items-center hx:cursor-pointer hx:select-none hx:list-none hx:p-1 hx:rounded-sm hx:transition-colors hx:hover:bg-gray-100 hx:dark:hover:bg-neutral-800 hx:before:mr-1 hx:before:inline-block hx:before:transition-transform hx:before:content-[&#39;&#39;] hx:dark:before:invert hx:rtl:before:rotate-180 hx:group-open:before:rotate-90&#34;&gt;
+    &lt;strong class=&#34;hx:text-lg&#34;&gt;⚠️ Spoilers ahead! Tap/click to continue to the object location ⚠️&lt;/strong&gt;
+  &lt;/summary&gt;
+  &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
+    &lt;img src=&#34;../images/144-found.jpg&#34; alt=&#34;Found&#34;  loading=&#34;lazy&#34; /&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
   &lt;/div&gt;
 &lt;/details&gt;
       </description>
