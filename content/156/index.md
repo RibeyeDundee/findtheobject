@@ -12,5 +12,7 @@ tags = [
 There's a baby alligator peeking out of the water here somewhere. Can you find it?
 ### 🎯 Location
 {{% details title="👀" closed="true" %}}
-🗓️ The location for this object will be posted tomorrow -- See you then!
+{{% details title="⚠️ Spoilers ahead! Tap/click to continue to the object location ⚠️" closed="true" %}}
+![Found](../images/156-found.jpg)
+{{% /details %}}
 {{% /details %}}
