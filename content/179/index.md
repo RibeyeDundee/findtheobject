@@ -2,6 +2,7 @@
 title = '🔎 #179 - Hidden Caterpiller 🐛'
 date = 2026-06-25
 draft = false
+expiryDate = 2026-09-23
 tags = [
 'HARD',
 ]

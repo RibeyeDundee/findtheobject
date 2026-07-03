@@ -2,6 +2,7 @@
 title = '🔎 #152 - Super Spider 🕷️'
 date = 2026-05-29
 draft = false
+expiryDate = 2026-08-27
 tags = [
 'EASY',
 ]

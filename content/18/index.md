@@ -2,6 +2,7 @@
 title = '🔎 #18 - Can you find 8 legs in less than 8 minutes? 🕷️'
 date = 2026-01-17
 draft = false
+expiryDate = 2026-04-17
 tags = [
 'hard',
 ]

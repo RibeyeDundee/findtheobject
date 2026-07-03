@@ -2,6 +2,7 @@
 title = '🔎 #14 - Give up and call the locksmith 🗝️'
 date = 2026-01-13
 draft = false
+expiryDate = 2026-04-13
 tags = [
 'medium',
 ]

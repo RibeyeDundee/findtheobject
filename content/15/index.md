@@ -2,6 +2,7 @@
 title = '🔎 #15 - Impossible Bobcat 😼'
 date = 2026-01-14
 draft = false
+expiryDate = 2026-04-14
 tags = [
 'impossible',
 ]

@@ -2,6 +2,7 @@
 title = '🔎 #50 - Hoo-dini 🦉'
 date = 2026-02-16
 draft = false
+expiryDate = 2026-05-17
 tags = [
 'HARD',
 ]

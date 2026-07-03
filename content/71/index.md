@@ -2,6 +2,7 @@
 title = '🔎 #71 - This deer sees you...🦌'
 date = 2026-03-09
 draft = false
+expiryDate = 2026-06-07
 tags = [
 'HARD',
 ]

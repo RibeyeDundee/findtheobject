@@ -2,6 +2,7 @@
 title = '🔎 #102 - Arboreal Rodent 🐿️'
 date = 2026-04-09
 draft = false
+expiryDate = 2026-07-08
 tags = [
 'HARD',
 ]

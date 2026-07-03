@@ -2,6 +2,7 @@
 title = '🔎 #114 - AstroNOT 🚀'
 date = 2026-04-21
 draft = false
+expiryDate = 2026-07-20
 tags = [
 'MEDIUM',
 ]

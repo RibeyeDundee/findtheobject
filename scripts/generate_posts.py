@@ -4,7 +4,7 @@ import shutil
 import re
 from pathlib import Path
 from zoneinfo import ZoneInfo
-from datetime import date, datetime, time
+from datetime import date, datetime, time, timedelta
 from markdown_generator import MarkdownGenerator
 
 
@@ -164,10 +164,17 @@ def main():
         post_body = get_post_data(db, post_id, 'body')
         post_hints = get_post_data(db, post_id, 'hints')
         
+        if 'expiration_days' in config:
+            expiration_date = datetime.strptime(post_attrs[1], "%Y-%m-%d") + timedelta(days=config['expiration_days'])
+            expiration_date = expiration_date.strftime("%Y-%m-%d")
+            print(post_attrs[1], config['expiration_days'], expiration_date)
+        else:
+            expiration_date = ''
+
         print(f'🪧  Creating post [{post_id}] [{post_attrs[0]}]', end='...')
         
         # build markdown
-        md.front_matter(title=f'🔎 #{post_id} - {post_attrs[0]}', date=post_attrs[1], draft=post_attrs[2], tags=post_attrs[3])
+        md.front_matter(title=f'🔎 #{post_id} - {post_attrs[0]}', date=post_attrs[1], draft=post_attrs[2], tags=post_attrs[3], expiration_date=expiration_date)
         md.subtitle(post_attrs[5])
         md.difficulty_badge(post_attrs[4])
         md.photo(alt='Find', path=f'../images/{post_id}-find.jpg')

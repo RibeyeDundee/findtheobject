@@ -2,6 +2,7 @@
 title = '🔎 #112 - Phreaky Pheasant 🦤'
 date = 2026-04-19
 draft = false
+expiryDate = 2026-07-18
 tags = [
 'HARD',
 ]

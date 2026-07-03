@@ -2,6 +2,7 @@
 title = '🔎 #106 - Is your spidey sense tingling? 🕷️'
 date = 2026-04-13
 draft = false
+expiryDate = 2026-07-12
 tags = [
 'MEDIUM',
 ]

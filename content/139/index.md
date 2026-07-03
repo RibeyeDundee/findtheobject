@@ -2,6 +2,7 @@
 title = '🔎 #139 - Copper Nope Rope 🐍'
 date = 2026-05-16
 draft = false
+expiryDate = 2026-08-14
 tags = [
 'MEDIUM',
 ]

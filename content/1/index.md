@@ -2,6 +2,7 @@
 title = '🔎 #1 - Tree rat! 🐿️'
 date = 2026-01-01
 draft = false
+expiryDate = 2026-04-01
 tags = [
 'HARD',
 ]

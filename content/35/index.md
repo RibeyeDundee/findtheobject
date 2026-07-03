@@ -2,6 +2,7 @@
 title = '🔎 #35 - Cats Paw 😺'
 date = 2026-02-01
 draft = false
+expiryDate = 2026-05-02
 tags = [
 'medium',
 ]

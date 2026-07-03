@@ -2,6 +2,7 @@
 title = '🔎 #122 - Lumber Cat 🐈🪵'
 date = 2026-04-29
 draft = false
+expiryDate = 2026-07-28
 tags = [
 'HARD',
 ]

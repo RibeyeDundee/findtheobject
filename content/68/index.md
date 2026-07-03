@@ -2,6 +2,7 @@
 title = '🔎 #68 - Staple Search 👀'
 date = 2026-03-06
 draft = false
+expiryDate = 2026-06-04
 tags = [
 'IMPOSSIBLE',
 ]

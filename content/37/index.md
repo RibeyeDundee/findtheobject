@@ -2,6 +2,7 @@
 title = '🔎 #37 - Hidden Hopper 🐸'
 date = 2026-02-03
 draft = false
+expiryDate = 2026-05-04
 tags = [
 'HARD',
 ]

@@ -2,6 +2,7 @@
 title = '🔎 #186 - Cheeky Bird 🐦'
 date = 2026-07-02
 draft = false
+expiryDate = 2026-09-30
 tags = [
 'HARD',
 ]

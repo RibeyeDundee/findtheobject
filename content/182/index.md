@@ -2,6 +2,7 @@
 title = '🔎 #182 - Brace Yourself! 🦷'
 date = 2026-06-28
 draft = false
+expiryDate = 2026-09-26
 tags = [
 'HARD',
 ]

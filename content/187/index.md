@@ -2,6 +2,7 @@
 title = '🔎 #187 - Green Friend 🦎'
 date = 2026-07-03
 draft = false
+expiryDate = 2026-10-01
 tags = [
 'IMPOSSIBLE',
 ]

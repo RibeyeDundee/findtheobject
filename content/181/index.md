@@ -2,6 +2,7 @@
 title = '🔎 #181 - Wonderful Web Slinger 🕷️'
 date = 2026-06-27
 draft = false
+expiryDate = 2026-09-25
 tags = [
 'MEDIUM',
 ]

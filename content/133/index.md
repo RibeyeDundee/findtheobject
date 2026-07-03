@@ -2,6 +2,7 @@
 title = '🔎 #133 - Caw! 🐦‍⬛'
 date = 2026-05-10
 draft = false
+expiryDate = 2026-08-08
 tags = [
 'MEDIUM',
 ]

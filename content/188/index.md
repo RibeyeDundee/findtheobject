@@ -2,6 +2,7 @@
 title = '🔎 #188 - Bug in the mud 🪲'
 date = 2026-07-04
 draft = false
+expiryDate = 2026-10-02
 tags = [
 'HARD',
 ]

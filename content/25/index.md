@@ -2,6 +2,7 @@
 title = '🔎 #25 - Danger Noodle 🐍'
 date = 2026-01-24
 draft = false
+expiryDate = 2026-04-24
 tags = [
 'easy',
 ]

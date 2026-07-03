@@ -2,6 +2,7 @@
 title = '🔎 #155 - Cozy Spider 🕷️'
 date = 2026-06-01
 draft = false
+expiryDate = 2026-08-30
 tags = [
 'EASY',
 ]

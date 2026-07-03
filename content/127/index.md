@@ -2,6 +2,7 @@
 title = '🔎 #127 - Lost rare coin! 🪙'
 date = 2026-05-04
 draft = false
+expiryDate = 2026-08-02
 tags = [
 'HARD',
 ]

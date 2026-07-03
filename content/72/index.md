@@ -2,6 +2,7 @@
 title = '🔎 #72 - Onery Owl 🦉'
 date = 2026-03-10
 draft = false
+expiryDate = 2026-06-08
 tags = [
 'EASY',
 ]

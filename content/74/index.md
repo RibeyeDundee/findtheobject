@@ -2,6 +2,7 @@
 title = '🔎 #74 - Call the Fire Department! Cat in a tree! 😿🚒'
 date = 2026-03-12
 draft = false
+expiryDate = 2026-06-10
 tags = [
 'MEDIUM',
 ]

@@ -2,6 +2,7 @@
 title = '🔎 #95 - Like finding a needle in a...tablecloth 🪡'
 date = 2026-04-02
 draft = false
+expiryDate = 2026-07-01
 tags = [
 'HARD',
 ]

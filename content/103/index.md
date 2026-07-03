@@ -2,6 +2,7 @@
 title = '🔎 #103 - There is no lizard? 🦎'
 date = 2026-04-10
 draft = false
+expiryDate = 2026-07-09
 tags = [
 'IMPOSSIBLE',
 ]

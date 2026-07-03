@@ -2,6 +2,7 @@
 title = '🔎 #34 - Concealed Chocolate Chip 🍪'
 date = 2026-01-31
 draft = false
+expiryDate = 2026-05-01
 tags = [
 'hard',
 ]

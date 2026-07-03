@@ -2,6 +2,7 @@
 title = '🔎 #111 - Lizard Overload 🦎🦎'
 date = 2026-04-18
 draft = false
+expiryDate = 2026-07-17
 tags = [
 'EASY',
 ]

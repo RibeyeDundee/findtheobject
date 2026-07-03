@@ -2,6 +2,7 @@
 title = '🔎 #55 - Frustrating Fastener 🔩'
 date = 2026-02-21
 draft = false
+expiryDate = 2026-05-22
 tags = [
 'HARD',
 ]

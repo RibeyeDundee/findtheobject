@@ -2,6 +2,7 @@
 title = '🔎 #45 - Lackadaisical Lizard 🦎'
 date = 2026-02-11
 draft = false
+expiryDate = 2026-05-12
 tags = [
 'MEDIUM',
 ]

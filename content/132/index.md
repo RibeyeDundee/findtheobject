@@ -2,6 +2,7 @@
 title = '🔎 #132 - Stone cold toad 🐸'
 date = 2026-05-09
 draft = false
+expiryDate = 2026-08-07
 tags = [
 'IMPOSSIBLE',
 ]

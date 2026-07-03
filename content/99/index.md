@@ -2,6 +2,7 @@
 title = '🔎 #99 - Hiding Hound 🐶'
 date = 2026-04-06
 draft = false
+expiryDate = 2026-07-05
 tags = [
 'EASY',
 ]

@@ -2,6 +2,7 @@
 title = '🔎 #42 - Timid Toad 🐸'
 date = 2026-02-08
 draft = false
+expiryDate = 2026-05-09
 tags = [
 'MEDIUM',
 ]

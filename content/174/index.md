@@ -2,6 +2,7 @@
 title = '🔎 #174 - Lizard Duo 🦎🦎'
 date = 2026-06-20
 draft = false
+expiryDate = 2026-09-18
 tags = [
 'EASY',
 ]

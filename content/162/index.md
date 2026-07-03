@@ -2,6 +2,7 @@
 title = '🔎 #162 - Missing Medicine 💊'
 date = 2026-06-08
 draft = false
+expiryDate = 2026-09-06
 tags = [
 'HARD',
 ]

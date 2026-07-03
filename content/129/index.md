@@ -2,6 +2,7 @@
 title = '🔎 #129 - Polly want a cracker? 🦜'
 date = 2026-05-06
 draft = false
+expiryDate = 2026-08-04
 tags = [
 'HARD',
 ]

@@ -2,6 +2,7 @@
 title = '🔎 #120 - Micro Godzilla! 🦎'
 date = 2026-04-27
 draft = false
+expiryDate = 2026-07-26
 tags = [
 'MEDIUM',
 ]

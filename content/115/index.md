@@ -2,6 +2,7 @@
 title = '🔎 #115 - Whiskers is watching 😺'
 date = 2026-04-22
 draft = false
+expiryDate = 2026-07-21
 tags = [
 'MEDIUM',
 ]

@@ -2,6 +2,7 @@
 title = '🔎 #171 - Tricycky Tack 📌'
 date = 2026-06-17
 draft = false
+expiryDate = 2026-09-15
 tags = [
 'MEDIUM',
 ]

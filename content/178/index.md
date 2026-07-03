@@ -2,6 +2,7 @@
 title = '🔎 #178 - Sneaky Lizard! 🦎'
 date = 2026-06-24
 draft = false
+expiryDate = 2026-09-22
 tags = [
 'HARD',
 ]

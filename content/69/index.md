@@ -2,6 +2,7 @@
 title = '🔎 #69 - Zoo Tree! 🐘🐅🐏'
 date = 2026-03-07
 draft = false
+expiryDate = 2026-06-05
 tags = [
 'EASY',
 ]

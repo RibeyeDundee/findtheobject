@@ -2,6 +2,7 @@
 title = '🔎 #156 - Baby Gator 🐊'
 date = 2026-06-02
 draft = false
+expiryDate = 2026-08-31
 tags = [
 'MEDIUM',
 ]

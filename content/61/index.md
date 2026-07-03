@@ -2,6 +2,7 @@
 title = '🔎 #61 - Double Arachnid Trouble!🕷️🕷️'
 date = 2026-02-27
 draft = false
+expiryDate = 2026-05-28
 tags = [
 'MEDIUM',
 ]

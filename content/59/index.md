@@ -2,6 +2,7 @@
 title = '🔎 #59 - What frog? 🐸'
 date = 2026-02-25
 draft = false
+expiryDate = 2026-05-26
 tags = [
 'MEDIUM',
 ]

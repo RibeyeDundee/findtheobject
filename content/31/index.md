@@ -2,6 +2,7 @@
 title = '🔎 #31 - You get a screw, and you get a screw, everyone gets a screw! 🔩'
 date = 2026-01-29
 draft = false
+expiryDate = 2026-04-29
 tags = [
 'easy',
 ]

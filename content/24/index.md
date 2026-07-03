@@ -2,6 +2,7 @@
 title = '🔎 #24 - Armadillo on the move 🏜'
 date = 2026-01-23
 draft = false
+expiryDate = 2026-04-23
 tags = [
 'hard',
 ]

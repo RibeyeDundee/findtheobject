@@ -2,6 +2,7 @@
 title = '🔎 #73 - Bashful Bard 🦉'
 date = 2026-03-11
 draft = false
+expiryDate = 2026-06-09
 tags = [
 'MEDIUM',
 ]

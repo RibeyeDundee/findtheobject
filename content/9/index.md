@@ -2,6 +2,7 @@
 title = '🔎 #9 - Extra puzzle piece 🧩'
 date = 2026-01-08
 draft = false
+expiryDate = 2026-04-08
 tags = [
 'easy',
 ]

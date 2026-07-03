@@ -2,6 +2,7 @@
 title = '🔎 #65 - Retired Roach 🪳'
 date = 2026-03-03
 draft = false
+expiryDate = 2026-06-01
 tags = [
 'HARD',
 ]

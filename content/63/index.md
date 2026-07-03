@@ -2,6 +2,7 @@
 title = '🔎 #63 - Feline Nativity 😺'
 date = 2026-03-01
 draft = false
+expiryDate = 2026-05-30
 tags = [
 'MEDIUM',
 ]

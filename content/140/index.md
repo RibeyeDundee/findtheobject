@@ -2,6 +2,7 @@
 title = '🔎 #140 - Creeping Crab 🦀'
 date = 2026-05-17
 draft = false
+expiryDate = 2026-08-15
 tags = [
 'HARD',
 ]

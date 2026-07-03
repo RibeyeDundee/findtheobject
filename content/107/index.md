@@ -2,6 +2,7 @@
 title = '🔎 #107 - Curious Cat 🐈'
 date = 2026-04-14
 draft = false
+expiryDate = 2026-07-13
 tags = [
 'MEDIUM',
 ]

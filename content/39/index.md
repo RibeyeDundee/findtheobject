@@ -2,6 +2,7 @@
 title = '🔎 #39 - Welcome to Jurassic Race Park 🦖'
 date = 2026-02-05
 draft = false
+expiryDate = 2026-05-06
 tags = [
 'HARD',
 ]

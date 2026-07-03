@@ -2,6 +2,7 @@
 title = '🔎 #119 - Rat tree! Er, tree rat! 🐿️'
 date = 2026-04-26
 draft = false
+expiryDate = 2026-07-25
 tags = [
 'EASY',
 ]

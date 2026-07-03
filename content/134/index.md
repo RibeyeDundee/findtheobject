@@ -2,6 +2,7 @@
 title = '🔎 #134 - Another lost button 🔘'
 date = 2026-05-11
 draft = false
+expiryDate = 2026-08-09
 tags = [
 'EASY',
 ]

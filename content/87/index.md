@@ -2,6 +2,7 @@
 title = '🔎 #87 - Clutter Cat 🐈t 🐈‍⬛'
 date = 2026-03-25
 draft = false
+expiryDate = 2026-06-23
 tags = [
 'MEDIUM',
 ]

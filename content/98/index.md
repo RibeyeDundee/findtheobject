@@ -2,6 +2,7 @@
 title = '🔎 #98 - Penny for your thoughts? 🪙'
 date = 2026-04-05
 draft = false
+expiryDate = 2026-07-04
 tags = [
 'MEDIUM',
 ]

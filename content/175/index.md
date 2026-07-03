@@ -2,6 +2,7 @@
 title = '🔎 #175 - Kreeping Kitty 🐈‍⬛'
 date = 2026-06-21
 draft = false
+expiryDate = 2026-09-19
 tags = [
 'EASY',
 ]

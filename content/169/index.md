@@ -2,6 +2,7 @@
 title = '🔎 #169 - River Ribbit 🐸'
 date = 2026-06-15
 draft = false
+expiryDate = 2026-09-13
 tags = [
 'HARD',
 ]

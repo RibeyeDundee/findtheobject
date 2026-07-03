@@ -2,6 +2,7 @@
 title = '🔎 #88 - A real wise guy 🦉'
 date = 2026-03-26
 draft = false
+expiryDate = 2026-06-24
 tags = [
 'EASY',
 ]

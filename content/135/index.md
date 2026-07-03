@@ -2,6 +2,7 @@
 title = '🔎 #135 - Dog watching 🐕'
 date = 2026-05-12
 draft = false
+expiryDate = 2026-08-10
 tags = [
 'MEDIUM',
 ]

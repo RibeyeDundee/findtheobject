@@ -2,6 +2,7 @@
 title = '🔎 #159 - Darling Deer 🦌'
 date = 2026-06-05
 draft = false
+expiryDate = 2026-09-03
 tags = [
 'MEDIUM',
 ]

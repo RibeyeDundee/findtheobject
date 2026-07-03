@@ -2,7 +2,7 @@ class MarkdownGenerator:
     def __init__(self):
         self.lines = []
 
-    def front_matter(self, title='', date='', draft='', tags=[]):
+    def front_matter(self, title='', date='', draft='', expiration_date='', tags=[]):
         if draft == 1:
             draft = 'true'
         else:
@@ -12,6 +12,8 @@ class MarkdownGenerator:
         self.lines.append(f'title = \'{title}\'')
         self.lines.append(f'date = {date}')
         self.lines.append(f'draft = {draft}')
+        if expiration_date:
+            self.lines.append(f'expiryDate = {expiration_date}')
         self.lines.append(f'tags = [')
 
         for tag in tags.split(' '):

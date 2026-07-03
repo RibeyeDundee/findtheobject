@@ -2,6 +2,7 @@
 title = '🔎 #75 - Indignant Iguana 🦎'
 date = 2026-03-13
 draft = false
+expiryDate = 2026-06-11
 tags = [
 'EASY',
 ]

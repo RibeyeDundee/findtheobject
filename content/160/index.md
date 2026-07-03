@@ -2,6 +2,7 @@
 title = '🔎 #160 - Meddling Mantis 🦗'
 date = 2026-06-06
 draft = false
+expiryDate = 2026-09-04
 tags = [
 'EASY',
 ]

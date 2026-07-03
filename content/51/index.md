@@ -2,6 +2,7 @@
 title = '🔎 #51 - Hidden Humming Bird 🐦'
 date = 2026-02-17
 draft = false
+expiryDate = 2026-05-18
 tags = [
 'HARD',
 ]

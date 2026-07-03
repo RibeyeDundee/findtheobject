@@ -2,6 +2,7 @@
 title = '🔎 #60 - Double Bolt Action 🔩'
 date = 2026-02-26
 draft = false
+expiryDate = 2026-05-27
 tags = [
 'MEDIUM',
 ]

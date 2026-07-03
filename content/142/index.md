@@ -2,6 +2,7 @@
 title = '🔎 #142 - Cartoon Raccoons 🦝'
 date = 2026-05-19
 draft = false
+expiryDate = 2026-08-17
 tags = [
 'MEDIUM',
 ]

@@ -2,6 +2,7 @@
 title = '🔎 #180 - Scorpions and Toads, oh my! 🐸🦂'
 date = 2026-06-26
 draft = false
+expiryDate = 2026-09-24
 tags = [
 'MEDIUM',
 ]

@@ -2,6 +2,7 @@
 title = '🔎 #43 - Pill on the lose! 💊'
 date = 2026-02-09
 draft = false
+expiryDate = 2026-05-10
 tags = [
 'HARD',
 ]

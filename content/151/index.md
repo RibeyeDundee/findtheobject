@@ -2,6 +2,7 @@
 title = '🔎 #151 - Boulder Bug 🦟'
 date = 2026-05-28
 draft = false
+expiryDate = 2026-08-26
 tags = [
 'EASY',
 ]

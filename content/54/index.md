@@ -2,6 +2,7 @@
 title = '🔎 #54 - Hop and Seek 🦗'
 date = 2026-02-20
 draft = false
+expiryDate = 2026-05-21
 tags = [
 'MEDIUM',
 ]

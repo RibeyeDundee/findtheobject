@@ -2,6 +2,7 @@
 title = '🔎 #104 - Back Garden Cat 😸'
 date = 2026-04-11
 draft = false
+expiryDate = 2026-07-10
 tags = [
 'MEDIUM',
 ]

@@ -2,6 +2,7 @@
 title = '🔎 #47 - Watch your step! 🐍'
 date = 2026-02-13
 draft = false
+expiryDate = 2026-05-14
 tags = [
 'MEDIUM',
 ]

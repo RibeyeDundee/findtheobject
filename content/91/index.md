@@ -2,6 +2,7 @@
 title = '🔎 #91 - Nail that wasnt nailed on 💅'
 date = 2026-03-29
 draft = false
+expiryDate = 2026-06-27
 tags = [
 'MEDIUM',
 ]

@@ -2,6 +2,7 @@
 title = '🔎 #41 - Swamp Thing 🐸 '
 date = 2026-02-07
 draft = false
+expiryDate = 2026-05-08
 tags = [
 'EASY',
 ]

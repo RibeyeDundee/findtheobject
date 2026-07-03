@@ -2,6 +2,7 @@
 title = '🔎 #148 - Blue? Jay 🐦'
 date = 2026-05-25
 draft = false
+expiryDate = 2026-08-23
 tags = [
 'HARD',
 ]

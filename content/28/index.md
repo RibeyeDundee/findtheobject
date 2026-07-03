@@ -2,6 +2,7 @@
 title = '🔎 #28 - Screwed! 🔩'
 date = 2026-01-27
 draft = false
+expiryDate = 2026-04-27
 tags = [
 'medium',
 ]

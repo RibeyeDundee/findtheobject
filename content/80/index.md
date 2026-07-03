@@ -2,6 +2,7 @@
 title = '🔎 #80 - Fishy Fishing Lead 🎣'
 date = 2026-03-18
 draft = false
+expiryDate = 2026-06-16
 tags = [
 'HARD',
 ]

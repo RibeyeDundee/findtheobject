@@ -2,6 +2,7 @@
 title = '🔎 #12 - Hidden Feathered Friend 🪶'
 date = 2026-01-11
 draft = false
+expiryDate = 2026-04-11
 tags = [
 'medium',
 ]

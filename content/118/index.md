@@ -2,6 +2,7 @@
 title = '🔎 #118 - Bee sure to look closely! 🐝'
 date = 2026-04-25
 draft = false
+expiryDate = 2026-07-24
 tags = [
 'HARD',
 ]

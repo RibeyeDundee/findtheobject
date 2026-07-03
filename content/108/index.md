@@ -2,6 +2,7 @@
 title = '🔎 #108 - Rats in the trees! 🐿️🐿️'
 date = 2026-04-15
 draft = false
+expiryDate = 2026-07-14
 tags = [
 'MEDIUM',
 ]

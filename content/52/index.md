@@ -2,6 +2,7 @@
 title = '🔎 #52 - Peeky The Parrot 🦜'
 date = 2026-02-18
 draft = false
+expiryDate = 2026-05-19
 tags = [
 'EASY',
 ]

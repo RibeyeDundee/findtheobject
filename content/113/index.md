@@ -2,6 +2,7 @@
 title = '🔎 #113 - Eester Eag 🥚🐰'
 date = 2026-04-20
 draft = false
+expiryDate = 2026-07-19
 tags = [
 'HARD',
 ]

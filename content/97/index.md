@@ -2,6 +2,7 @@
 title = '🔎 #97 - Big Cat 😸'
 date = 2026-04-04
 draft = false
+expiryDate = 2026-07-03
 tags = [
 'EASY',
 ]

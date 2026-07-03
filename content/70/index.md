@@ -2,6 +2,7 @@
 title = '🔎 #70 - Frog, you say? 🐸'
 date = 2026-03-08
 draft = false
+expiryDate = 2026-06-06
 tags = [
 'HARD',
 ]

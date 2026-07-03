@@ -2,6 +2,7 @@
 title = '🔎 #89 - Silly Goose 🪿'
 date = 2026-03-27
 draft = false
+expiryDate = 2026-06-25
 tags = [
 'EASY',
 ]

@@ -2,6 +2,7 @@
 title = '🔎 #86 - This drill bit has been stepping out 🪛'
 date = 2026-03-24
 draft = false
+expiryDate = 2026-06-22
 tags = [
 'HARD',
 ]

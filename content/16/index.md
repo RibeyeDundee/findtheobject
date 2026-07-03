@@ -2,6 +2,7 @@
 title = '🔎 #16 - Japanese Wagtail 🐦‍⬛'
 date = 2026-01-15
 draft = false
+expiryDate = 2026-04-15
 tags = [
 'medium',
 ]

@@ -2,6 +2,7 @@
 title = '🔎 #66 - Bashful Butterfly 🦋'
 date = 2026-03-04
 draft = false
+expiryDate = 2026-06-02
 tags = [
 'HARD',
 ]

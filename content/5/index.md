@@ -2,6 +2,7 @@
 title = '🔎 #5 - Screw this! 🔩'
 date = 2026-01-05
 draft = false
+expiryDate = 2026-04-05
 tags = [
 'easy',
 ]

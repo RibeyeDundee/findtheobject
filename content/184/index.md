@@ -2,6 +2,7 @@
 title = '🔎 #184 - Katy Didnt 🦗'
 date = 2026-06-30
 draft = false
+expiryDate = 2026-09-28
 tags = [
 'MEDIUM',
 ]

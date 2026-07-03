@@ -2,6 +2,7 @@
 title = '🔎 #93 - Are scorpions scorpios?🦂'
 date = 2026-03-31
 draft = false
+expiryDate = 2026-06-29
 tags = [
 'EASY',
 ]

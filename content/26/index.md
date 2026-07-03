@@ -2,6 +2,7 @@
 title = '🔎 #26 - Sew hard to find! 🪡'
 date = 2026-01-25
 draft = false
+expiryDate = 2026-04-25
 tags = [
 'medium',
 ]

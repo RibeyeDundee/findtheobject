@@ -2,6 +2,7 @@
 title = '🔎 #143 - Cheeky Chipmunk 🐿️'
 date = 2026-05-20
 draft = false
+expiryDate = 2026-08-18
 tags = [
 'MEDIUM',
 ]

@@ -2,6 +2,7 @@
 title = '🔎 #124 - This one is a hoot 🦉'
 date = 2026-05-01
 draft = false
+expiryDate = 2026-07-30
 tags = [
 'MEDIUM',
 ]

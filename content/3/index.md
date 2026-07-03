@@ -2,6 +2,7 @@
 title = '🔎 #3 - Sneaky Snake 🐍'
 date = 2026-01-03
 draft = false
+expiryDate = 2026-04-03
 tags = [
 'impossible',
 ]

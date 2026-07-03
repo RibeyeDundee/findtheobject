@@ -2,6 +2,7 @@
 title = '🔎 #83 - Are your ears 👂 ringing 💍?'
 date = 2026-03-21
 draft = false
+expiryDate = 2026-06-19
 tags = [
 'HARD',
 ]

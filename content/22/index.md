@@ -2,6 +2,7 @@
 title = '🔎 #22 - Sneaky Shears ✂'
 date = 2026-01-21
 draft = false
+expiryDate = 2026-04-21
 tags = [
 'medium',
 ]

@@ -2,6 +2,7 @@
 title = '🔎 #78 - Menacing Mantis 🦗'
 date = 2026-03-16
 draft = false
+expiryDate = 2026-06-14
 tags = [
 'IMPOSSIBLE',
 ]

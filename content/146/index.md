@@ -2,6 +2,7 @@
 title = '🔎 #146 - Monkish Munk 🐿️'
 date = 2026-05-23
 draft = false
+expiryDate = 2026-08-21
 tags = [
 'HARD',
 ]

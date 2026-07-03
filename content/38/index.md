@@ -2,6 +2,7 @@
 title = '🔎 #38 - Blurry Bambi 🦌'
 date = 2026-02-04
 draft = false
+expiryDate = 2026-05-05
 tags = [
 'MEDIUM',
 ]

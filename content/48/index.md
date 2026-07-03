@@ -2,6 +2,7 @@
 title = '🔎 #48 - Fly Finale 🪰'
 date = 2026-02-14
 draft = false
+expiryDate = 2026-05-15
 tags = [
 'HARD',
 ]

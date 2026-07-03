@@ -2,6 +2,7 @@
 title = '🔎 #62 - Ornamental Mishap 🎄'
 date = 2026-02-28
 draft = false
+expiryDate = 2026-05-29
 tags = [
 'HARD',
 ]

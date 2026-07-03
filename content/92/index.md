@@ -2,6 +2,7 @@
 title = '🔎 #92 - This cat is listening right at you! 🐱'
 date = 2026-03-30
 draft = false
+expiryDate = 2026-06-28
 tags = [
 'HARD',
 ]

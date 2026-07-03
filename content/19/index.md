@@ -2,6 +2,7 @@
 title = '🔎 #19 - Bobtail lizard 🦎'
 date = 2026-01-18
 draft = false
+expiryDate = 2026-04-18
 tags = [
 'medium',
 ]

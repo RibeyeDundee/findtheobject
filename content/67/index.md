@@ -2,6 +2,7 @@
 title = '🔎 #67 - Deceitful Drill Bit 🪚'
 date = 2026-03-05
 draft = false
+expiryDate = 2026-06-03
 tags = [
 'IMPOSSIBLE',
 ]

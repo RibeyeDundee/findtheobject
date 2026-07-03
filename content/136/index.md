@@ -2,6 +2,7 @@
 title = '🔎 #136 - Dangerous Chihuahua in the grass 🐕'
 date = 2026-05-13
 draft = false
+expiryDate = 2026-08-11
 tags = [
 'EASY',
 ]

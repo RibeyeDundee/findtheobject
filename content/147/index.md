@@ -2,6 +2,7 @@
 title = '🔎 #147 - Tricky Toad 🐸'
 date = 2026-05-24
 draft = false
+expiryDate = 2026-08-22
 tags = [
 'EASY',
 ]

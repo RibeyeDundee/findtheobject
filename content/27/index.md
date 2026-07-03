@@ -2,6 +2,7 @@
 title = '🔎 #27 - Jungle Cat 🐱'
 date = 2026-01-26
 draft = false
+expiryDate = 2026-04-26
 tags = [
 'hard',
 ]

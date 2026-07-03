@@ -2,6 +2,7 @@
 title = '🔎 #154 - Rascally Rabbit 🐇'
 date = 2026-05-31
 draft = false
+expiryDate = 2026-08-29
 tags = [
 'MEDIUM',
 ]

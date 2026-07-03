@@ -2,6 +2,7 @@
 title = '🔎 #121 - Oh deer 🦌'
 date = 2026-04-28
 draft = false
+expiryDate = 2026-07-27
 tags = [
 'HARD',
 ]

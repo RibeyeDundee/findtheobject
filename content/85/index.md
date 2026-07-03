@@ -2,6 +2,7 @@
 title = '🔎 #85 - Mac-n-fries? 🍟'
 date = 2026-03-23
 draft = false
+expiryDate = 2026-06-21
 tags = [
 'MEDIUM',
 ]

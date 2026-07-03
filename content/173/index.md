@@ -2,6 +2,7 @@
 title = '🔎 #173 - Spring in the summer 🖊️'
 date = 2026-06-19
 draft = false
+expiryDate = 2026-09-17
 tags = [
 'HARD',
 ]

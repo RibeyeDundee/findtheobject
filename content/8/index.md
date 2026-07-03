@@ -2,6 +2,7 @@
 title = '🔎 #8 - Christmas Pen 🖋️'
 date = 2026-01-07
 draft = false
+expiryDate = 2026-04-07
 tags = [
 'medium',
 ]

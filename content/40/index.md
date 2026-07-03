@@ -2,6 +2,7 @@
 title = '🔎 #40 - Junkyard Cat'
 date = 2026-02-06
 draft = false
+expiryDate = 2026-05-07
 tags = [
 'EASY',
 ]

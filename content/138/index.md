@@ -2,6 +2,7 @@
 title = '🔎 #138 - Bloom Buzzer 🐦'
 date = 2026-05-15
 draft = false
+expiryDate = 2026-08-13
 tags = [
 'EASY',
 ]

@@ -2,6 +2,7 @@
 title = '🔎 #77 - Serpentine Serpent 🐍'
 date = 2026-03-15
 draft = false
+expiryDate = 2026-06-13
 tags = [
 'EASY',
 ]

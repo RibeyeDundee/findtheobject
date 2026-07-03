@@ -2,6 +2,7 @@
 title = '🔎 #105 - Monkeying Around 🐒'
 date = 2026-04-12
 draft = false
+expiryDate = 2026-07-11
 tags = [
 'MEDIUM',
 ]

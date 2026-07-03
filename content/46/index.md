@@ -2,6 +2,7 @@
 title = '🔎 #46 - Sly Skink 🦎'
 date = 2026-02-12
 draft = false
+expiryDate = 2026-05-13
 tags = [
 'MEDIUM',
 ]

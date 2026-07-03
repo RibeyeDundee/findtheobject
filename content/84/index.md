@@ -2,6 +2,7 @@
 title = '🔎 #84 - Such a good boy! 🐶'
 date = 2026-03-22
 draft = false
+expiryDate = 2026-06-20
 tags = [
 'EASY',
 ]

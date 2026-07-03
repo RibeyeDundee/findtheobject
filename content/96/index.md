@@ -2,6 +2,7 @@
 title = '🔎 #96 - Secret Squirrel 🐿️'
 date = 2026-04-03
 draft = false
+expiryDate = 2026-07-02
 tags = [
 'IMPOSSIBLE',
 ]

@@ -2,6 +2,7 @@
 title = '🔎 #166 - Mystery Moth 🦋'
 date = 2026-06-12
 draft = false
+expiryDate = 2026-09-10
 tags = [
 'HARD',
 ]

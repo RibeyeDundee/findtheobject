@@ -2,6 +2,7 @@
 title = '🔎 #58 - Bashful Bread Tie 🍞'
 date = 2026-02-24
 draft = false
+expiryDate = 2026-05-25
 tags = [
 'MEDIUM',
 ]

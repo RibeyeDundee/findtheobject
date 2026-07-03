@@ -2,6 +2,7 @@
 title = '🔎 #7 - ✨Bonus Squirrel! 🐿️'
 date = 2026-01-06
 draft = false
+expiryDate = 2026-04-06
 tags = [
 'easy',
 ]

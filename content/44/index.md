@@ -2,6 +2,7 @@
 title = '🔎 #44 - Tree rat-tat-tat 🐿️'
 date = 2026-02-10
 draft = false
+expiryDate = 2026-05-11
 tags = [
 'MEDIUM',
 ]

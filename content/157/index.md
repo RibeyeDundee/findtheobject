@@ -2,6 +2,7 @@
 title = '🔎 #157 - Vegetable Predator 🐇'
 date = 2026-06-03
 draft = false
+expiryDate = 2026-09-01
 tags = [
 'EASY',
 ]

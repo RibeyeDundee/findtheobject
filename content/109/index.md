@@ -2,6 +2,7 @@
 title = '🔎 #109 - Hide-and-peek 😺'
 date = 2026-04-16
 draft = false
+expiryDate = 2026-07-15
 tags = [
 'HARD',
 ]

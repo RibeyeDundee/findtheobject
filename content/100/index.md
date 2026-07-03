@@ -2,6 +2,7 @@
 title = '🔎 #100 - Cozy Cat 🐈'
 date = 2026-04-07
 draft = false
+expiryDate = 2026-07-06
 tags = [
 'MEDIUM',
 ]

@@ -2,6 +2,7 @@
 title = '🔎 #117 - Eggstremely hidden egg 🥚'
 date = 2026-04-24
 draft = false
+expiryDate = 2026-07-23
 tags = [
 'MEDIUM',
 ]

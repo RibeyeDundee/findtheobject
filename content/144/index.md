@@ -2,6 +2,7 @@
 title = '🔎 #144 - Cammo Cat 🐈‍⬛'
 date = 2026-05-21
 draft = false
+expiryDate = 2026-08-19
 tags = [
 'HARD',
 ]

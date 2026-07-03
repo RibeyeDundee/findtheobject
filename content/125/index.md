@@ -2,6 +2,7 @@
 title = '🔎 #125 - Lion of the Sea 🦭'
 date = 2026-05-02
 draft = false
+expiryDate = 2026-07-31
 tags = [
 'HARD',
 ]

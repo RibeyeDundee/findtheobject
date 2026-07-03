@@ -2,6 +2,7 @@
 title = '🔎 #163 - Lazy Lizard 🦎'
 date = 2026-06-09
 draft = false
+expiryDate = 2026-09-07
 tags = [
 'MEDIUM',
 ]

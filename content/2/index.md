@@ -2,6 +2,7 @@
 title = '🔎 #2 - Destroyer of trees 🎄'
 date = 2026-01-02
 draft = false
+expiryDate = 2026-04-02
 tags = [
 'easy',
 ]

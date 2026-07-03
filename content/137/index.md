@@ -2,6 +2,7 @@
 title = '🔎 #137 - Big beaked bird 🐦'
 date = 2026-05-14
 draft = false
+expiryDate = 2026-08-12
 tags = [
 'MEDIUM',
 ]

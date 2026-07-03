@@ -2,6 +2,7 @@
 title = '🔎 #4 - Critter'
 date = 2026-01-04
 draft = false
+expiryDate = 2026-04-04
 tags = [
 'medium',
 ]

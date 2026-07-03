@@ -2,6 +2,7 @@
 title = '🔎 #185 - Whimsical Wood Snake 🐍'
 date = 2026-07-01
 draft = false
+expiryDate = 2026-09-29
 tags = [
 'MEDIUM',
 ]

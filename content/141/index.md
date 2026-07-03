@@ -2,6 +2,7 @@
 title = '🔎 #141 - Bumbling Bee 🐝'
 date = 2026-05-18
 draft = false
+expiryDate = 2026-08-16
 tags = [
 'MEDIUM',
 ]

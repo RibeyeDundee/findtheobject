@@ -2,6 +2,7 @@
 title = '🔎 #82 - Ninja Toad! 🐸'
 date = 2026-03-20
 draft = false
+expiryDate = 2026-06-18
 tags = [
 'MEDIUM',
 ]
