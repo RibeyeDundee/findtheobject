@@ -167,7 +167,6 @@ def main():
         if 'expiration_days' in config:
             expiration_date = datetime.strptime(post_attrs[1], "%Y-%m-%d") + timedelta(days=config['expiration_days'])
             expiration_date = expiration_date.strftime("%Y-%m-%d")
-            print(post_attrs[1], config['expiration_days'], expiration_date)
         else:
             expiration_date = ''
 
