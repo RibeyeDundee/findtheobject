@@ -140,7 +140,7 @@ def main():
 
     # connect to DB
     db = db_connect(config)
-    
+
     # init markdown object
     md = MarkdownGenerator()
     
