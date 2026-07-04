@@ -119,7 +119,7 @@ def should_print_hints(publish_date):
     now = datetime.now(timezone)
     if publish_date < now.date():
         return True
-    elif publish_date == now.date() and now.time() >= time(12, 0):        
+    elif publish_date == now.date() and now.time() >= time(12, 0):
         return True
     else:
         return False
