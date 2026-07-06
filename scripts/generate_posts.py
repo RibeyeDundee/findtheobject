@@ -111,7 +111,7 @@ def unhide_post_images(post_id):
             base_name = image_file.name
             new_name = image_file.with_name(f'{base_name[1:]}')
             image_file.rename(new_name)
-   
+ 
 def should_print_hints(publish_date):
     # we want to wait until after noon on the publish date to print the hints section
     timezone = ZoneInfo('America/New_York')
