@@ -13,5 +13,7 @@ tags = [
 In this floor mosaic, there is a single piece of blue glass, AND a single piece of green glass. Find them both!
 ### 🎯 Location
 {{% details title="👀" closed="true" %}}
-🗓️ The location for this object will be posted tomorrow -- See you then!
+{{% details title="⚠️ Spoilers ahead! Tap/click to continue to the object location ⚠️" closed="true" %}}
+![Found](../images/215-found.jpg)
+{{% /details %}}
 {{% /details %}}
