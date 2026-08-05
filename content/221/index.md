@@ -14,5 +14,7 @@ I'm assuming the spider's name is Jack
 Find the jumping spider!
 ### 🎯 Location
 {{% details title="👀" closed="true" %}}
-🗓️ The location for this object will be posted tomorrow -- See you then!
+{{% details title="⚠️ Spoilers ahead! Tap/click to continue to the object location ⚠️" closed="true" %}}
+![Found](../images/221-found.jpg)
+{{% /details %}}
 {{% /details %}}
