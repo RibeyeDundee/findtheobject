@@ -14,5 +14,7 @@ tags = [
 ![Pika](../images/pika.jpg) A pika is a small, mountain-dwelling mammal native to Asia and North America. With short limbs, a very round body, an even coat of fur, and no external tail, they resemble their close relative the rabbit, but with short, rounded ears.
 ### 🎯 Location
 {{% details title="👀" closed="true" %}}
-🗓️ The location for this object will be posted tomorrow -- See you then!
+{{% details title="⚠️ Spoilers ahead! Tap/click to continue to the object location ⚠️" closed="true" %}}
+![Found](../images/232-found.jpg)
+{{% /details %}}
 {{% /details %}}
