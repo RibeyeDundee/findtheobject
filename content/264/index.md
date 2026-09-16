@@ -13,5 +13,7 @@ tags = [
 Find the star with exactly 5 points. Like this one: ⭐
 ### 🎯 Location
 {{% details title="👀" closed="true" %}}
-🗓️ The location for this object will be posted tomorrow -- See you then!
+{{% details title="⚠️ Spoilers ahead! Tap/click to continue to the object location ⚠️" closed="true" %}}
+![Found](../images/264-found.jpg)
+{{% /details %}}
 {{% /details %}}
