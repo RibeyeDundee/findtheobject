@@ -14,5 +14,7 @@ leaf frog...like leap frog...get it?
 Despite the excellent frog pun in the title, you're actually looking for a toad.
 ### 🎯 Location
 {{% details title="👀" closed="true" %}}
-🗓️ The location for this object will be posted tomorrow -- See you then!
+{{% details title="⚠️ Spoilers ahead! Tap/click to continue to the object location ⚠️" closed="true" %}}
+![Found](../images/275-found.jpg)
+{{% /details %}}
 {{% /details %}}
