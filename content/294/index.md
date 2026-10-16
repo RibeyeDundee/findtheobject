@@ -22,5 +22,7 @@ There is a bobby pin in this grass. You won't find it. Sorry.
 {{% /details %}}
 ### 🎯 Location
 {{% details title="👀" closed="true" %}}
-🗓️ The location for this object will be posted tomorrow -- See you then!
+{{% details title="⚠️ Spoilers ahead! Tap/click to continue to the object location ⚠️" closed="true" %}}
+![Found](../images/294-found.jpg)
+{{% /details %}}
 {{% /details %}}
