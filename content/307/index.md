@@ -14,5 +14,7 @@ tags = [
 This one is a bit different, but fun. The cat face at the top of the photo is hidden in the mushrooms somewhere. Can you find it?
 ### 🎯 Location
 {{% details title="👀" closed="true" %}}
-🗓️ The location for this object will be posted tomorrow -- See you then!
+{{% details title="⚠️ Spoilers ahead! Tap/click to continue to the object location ⚠️" closed="true" %}}
+![Found](../images/307-found.jpg)
+{{% /details %}}
 {{% /details %}}
